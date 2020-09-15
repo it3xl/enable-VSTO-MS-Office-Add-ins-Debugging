@@ -8,6 +8,8 @@
 @REM - For details see
 @REM - https://docs.microsoft.com/en-us/visualstudio/vsto/how-to-configure-inclusion-list-security?view=vs-2019#enable-the-inclusion-list
 @REM - https://msdn.microsoft.com/en-us/library/ms996418.aspx#clickoncetrustpub_topic2
+@REM -
+@REM - See the last version of this file in https://github.com/it3xl/enable-VSTO-MS-Office-Add-ins-Debugging
 
 @ECHO:
 
